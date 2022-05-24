@@ -9,8 +9,7 @@ body {
   display: flex;
   background-repeat: no-repeat;
   background-position: -35rem;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url(./img/bgrocketpower.jpg);
+  background-image: url(./img/bgrocketpower.jpg);
 }
 
 .memory-game {
